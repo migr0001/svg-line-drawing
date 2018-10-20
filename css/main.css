@@ -11,9 +11,3 @@ h1 {
   bottom: 500px;
   color: #fff;
 }
-
-.unicorn-horn {
-  animation: …;
-  stroke-dasharray: …px; /* The length of the stroke */
-  stroke-dashoffset: …px; /* The length of the stroke */
-}
