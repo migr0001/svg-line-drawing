@@ -1,0 +1,19 @@
+html {
+  font-family: "Unica One"
+}
+
+svg {
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  bottom: 500px;
+  color: #fff;
+}
+
+.unicorn-horn {
+  animation: …;
+  stroke-dasharray: …px; /* The length of the stroke */
+  stroke-dashoffset: …px; /* The length of the stroke */
+}
